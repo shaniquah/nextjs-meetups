@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', 'Lato, sans-serif';
+    margin: 0;
+    background-image:url('https://www.shutterstock.com/shutterstock/videos/1057790755/thumb/1.jpg?ip=x480');
+    background-repeat: no-repeat;
+    background-size:100%;
+    /* background-position: center; */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+}
